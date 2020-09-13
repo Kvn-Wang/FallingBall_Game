@@ -1,0 +1,78 @@
+#bottone 
+{
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-font-size: 30px;
+    
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-background-radius: 15px;
+    
+    -font-style: oblique;
+    -fx-font-family: "Times New Roman", Times, serif;
+}
+
+#bottone:hover 
+{
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#fancytext2 
+{
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+#fancytext 
+{
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, #0066cc, #cc0000);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+#fancytext3
+{
+    -fx-font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#bottoneChiusura
+{
+    -fx-background-color: transparent;
+}
+
+#bottoneChiusura:pressed 
+{
+    -fx-background-color: #ffff99;
+    -fx-opacity: 0.2;
+}
+
+#bottoneScore 
+{
+    -fx-text-fill: #B20000;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    
+    -fx-background-color: linear-gradient(#004D76, #003549);
+    -fx-background-radius: 15px;
+    
+    -font-style: oblique;
+    -fx-font-family: "Times New Roman", Times, serif;
+}
+
+#bottoneScore:hover 
+{
+    -fx-background-color: linear-gradient(#6E0036, #37001B);
+}
+
+#textLogin
+{
+    -fx-fill: #E1AB00;
+    -fx-font-weight: bold;
+    -fx-font-size: 17px;
+    
+    -fx-font-family: "Comic Sans MS", cursive, sans-serif;
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}

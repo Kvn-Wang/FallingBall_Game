@@ -1,0 +1,10 @@
+.label
+{
+    -fx-text-fill: #C8C8C8;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    
+    -font-style: oblique;
+    -fx-font-family: "Times New Roman", Times, serif;
+}
