@@ -1,21 +1,26 @@
 # FallingBall_Game
-A simple game written in java.    <br /><br />
-
+A simple game written in java.    
+<br />
 
 ## Table of Contents
 * [About The Project](#about-the-project)  <br />
-#Real Cool Heading                <br />
-#Real Cool Heading                <br />
-#Real Cool Heading                <br />
+* [Technologies](#technologies)  <br />
+* [Installation](#installation)  
 <br />
 
 ## About The Project
 A game that has:
  * FrontEnd UI: javafx
  * BackEnd: Java
- * ServerSide: Java
+ * ServerSide: Java             
+ <br />
 
 ## Technologies
-* Python 3.8
+* Python 3.8                    
+<br />
 
-`#f03c15`
+## Installation
+1. Initialize Git 
+`git init`
+2. Clone the repo of the project
+`git clone`
