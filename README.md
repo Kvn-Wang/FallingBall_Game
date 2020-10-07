@@ -3,13 +3,13 @@ A simple game written in java.
 
 
 ## Table of Contents
-[Markdown - Link](##General Info)
+[Markdown - Link](#general_info)
 #Real Cool Heading
 #Real Cool Heading
 #Real Cool Heading
 
 
-## General Info
+## General Info (#general_info)
 A game that has:
  * FrontEnd UI: javafx
  * BackEnd: Java
