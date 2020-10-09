@@ -26,6 +26,6 @@ A game that has:
 ## Contribuition
 
 ## Contact
-Linkedin:  [linkedin.com](www.linkedin.com/in/kevin-wang-83ab931b1)<br />
-Github:    [github.com](www.github.com/Kevin9000)<br />
+Linkedin:  [linkedin.com](http://linkedin.com/in/kevin-wang-83ab931b1)<br />
+Github:    [github.com](http://github.com/Kevin9000)<br />
 E-Mail:    [email](kevinwang9000@gmail.com)<br />
