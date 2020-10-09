@@ -24,7 +24,7 @@ A game that has:
 4. Enjoy! 
 
 ## Contribuition
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. <br /> Any contributions you make are greatly appreciated. <br />
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. <br /> Any contributions you make are greatly appreciated. <br /><br />
 1.&nbsp;&nbsp; Fork the Project <br />
 2.&nbsp;&nbsp; Create your Feature Branch (git checkout -b secondaryBranch) <br />
 3.&nbsp;&nbsp; Commit your Changes (git commit -m 'Add some Feature') <br />
