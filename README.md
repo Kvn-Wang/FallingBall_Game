@@ -24,12 +24,12 @@ A game that has:
 4. Enjoy! 
 
 ## Contribuition
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. <br /> Any contributions you make are greatly appreciated.
-1.&nbsp&nbsp Fork the Project <br />
-2.&nbsp&nbsp Create your Feature Branch (git checkout -b secondaryBranch) <br />
-3.&nbsp&nbsp Commit your Changes (git commit -m 'Add some Feature') <br />
-4.&nbsp&nbsp Push to the Branch (git push origin secondaryBranch) <br />
-5.&nbsp&nbsp Open a Pull Request <br />
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. <br /> Any contributions you make are greatly appreciated. <br />
+1.&nbsp;&nbsp; Fork the Project <br />
+2.&nbsp;&nbsp; Create your Feature Branch (git checkout -b secondaryBranch) <br />
+3.&nbsp;&nbsp; Commit your Changes (git commit -m 'Add some Feature') <br />
+4.&nbsp;&nbsp; Push to the Branch (git push origin secondaryBranch) <br />
+5.&nbsp;&nbsp; Open a Pull Request <br />
 
 ## Contact
 Linkedin:&nbsp;&nbsp;[linkedin.com](http://linkedin.com/in/kevin-wang-83ab931b1) <br />
