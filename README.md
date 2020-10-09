@@ -5,6 +5,8 @@ A simple game written in java.
 * [About The Project](#about-the-project)  <br />
 * [Technologies](#technologies)  <br />
 * [Installation](#installation)  
+* [Contribution](#contribution)  
+* [Contact](#contact)  
 
 ## About The Project
 A game that has:
@@ -23,7 +25,7 @@ A game that has:
 3. Start an IDE and open the project <br />
 4. Enjoy! 
 
-## Contribuition
+## Contribution
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. <br /> Any contributions you make are greatly appreciated. <br /><br />
 1.&nbsp;&nbsp; Fork the Project <br />
 2.&nbsp;&nbsp; Create your Feature Branch (git checkout -b secondaryBranch) <br />
