@@ -27,5 +27,5 @@ A game that has:
 
 ## Contact
 Linkedin:  [linkedin.com](#www.linkedin.com/in/kevin-wang-83ab931b1)<br />
-Github:    [github.com](#https://github.com/Kevin9000)<br />
-E-Mail:    [email](#MAILTO: kevinwang9000@gmail.com)<br />
+Github:    [github.com](#www.github.com/Kevin9000)<br />
+E-Mail:    [email](#kevinwang9000@gmail.com)<br />
