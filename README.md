@@ -9,13 +9,14 @@ A simple game written in java.
 * [Contact](#contact)  
 
 ## About The Project
-A game that has:
- * FrontEnd UI: javafx
+A full life-cycle game that has:
+ * FrontEnd UI: javafx, Css
  * BackEnd: Java
  * ServerSide: Java             
 
 ## Technologies
-* Python 3.8                    
+* Python 3.8       
+* Css    
 
 ## Installation
 1. Initialize Git <br />
