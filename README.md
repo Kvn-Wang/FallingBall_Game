@@ -1,5 +1,5 @@
 # FallingBall_Game
-![Alt Text] (http://i.imgur.com/OUkLi.gif)
+![](http://i.imgur.com/OUkLi.gif)
 A simple game written in java.    
 
 ## Table of Contents
