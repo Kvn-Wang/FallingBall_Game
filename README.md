@@ -1,5 +1,5 @@
 # FallingBall_Game
-![](http://i.imgur.com/OUkLi.gif)
+![](https://github.com/Kevin9000/Utilities/blob/master/Project_video/Fallingball_gif.mp4) <br />
 A simple game written in java.    
 
 ## Table of Contents
